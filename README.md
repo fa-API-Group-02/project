@@ -3,11 +3,11 @@
 Somos alunos do 1º semestre (2021-1) do curso Desenvolvimento de Software Multiplataforma da Fatec São José dos Campos - Prof. Jessen Vidal.
 O grupo 02 é formado por:
 
-- [Rafael Roberto Lopes - DT](https://www.linkedin.com/in/rafael-roberto-lopes/)
 - [Gabriel Camargo Leite - DT](https://www.linkedin.com/in/gabriel-camargo-915452196/)
-- [Luis Fernando Moloni - DT](https://www.google.com/)
+- [Luis Fernando Moloni - DT](https://www.linkedin.com/in/luiz-fernando-moloni-ab9021204/)
 - [Luis Guilherme Florido - DT](https://www.google.com/)
 - [Monique Carniello - SM](https://www.linkedin.com/in/monique-carniello-511ba61b6/)
+- [Rafael Roberto Lopes - DT](https://www.linkedin.com/in/rafael-roberto-lopes/)
 - [Thiago Henrique Ferreira - DT](https://www.linkedin.com/in/thiago-henrique-ferreira-2499a41a8/)
 
 `SM - Scrum Master`
