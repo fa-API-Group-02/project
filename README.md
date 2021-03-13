@@ -5,7 +5,7 @@ O grupo 02 é formado por:
 
 - [Gabriel Camargo Leite - DT](https://www.linkedin.com/in/gabriel-camargo-915452196/)
 - [Luis Fernando Moloni - DT](https://www.linkedin.com/in/luiz-fernando-moloni-ab9021204/)
-- [Luis Guilherme Florido - DT](https://www.google.com/)
+- [Luiz Guilherme Florido - DT](https://www.google.com/)
 - [Monique Carniello - SM](https://www.linkedin.com/in/monique-carniello-511ba61b6/)
 - [Rafael Roberto Lopes - DT](https://www.linkedin.com/in/rafael-roberto-lopes/)
 - [Thiago Henrique Ferreira - DT](https://www.linkedin.com/in/thiago-henrique-ferreira-2499a41a8/)
@@ -15,11 +15,15 @@ O grupo 02 é formado por:
 
 ## Proposta
 
-Descrever aqui a proposta do projeto.
+Desenvolver um site para análise de dados públicos, utilizando os dados disponíveis em fontes oficiais, como TSE, com o objetivo de ser utilizado por jornalistas no desenvolvimento de suas matérias.
+Incialmente tendo como foco dados de eleitores do Estado de São Paulo.....XXXXXX melhorar
 
 ## Tecnologias utilizadas no desenvolvimento
 
 Mostrar aqui as tecnologias utilizadas para o desenvolvimento do projeto
+
+## User Stories
+
 
 ## Backlog do produto
 
