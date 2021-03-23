@@ -4,9 +4,11 @@ Somos alunos do 1º semestre (2021-1) do curso Desenvolvimento de Software Multi
 O grupo 02 é formado por:
 
 - [Gabriel Camargo Leite - DT](https://www.linkedin.com/in/gabriel-camargo-915452196/)
+- [João Marcos Oliveira Santos - DT](https://www.linkedin.com/in/joaomarcosoliveiraa/)
 - [Luis Fernando Moloni - DT](https://www.linkedin.com/in/luiz-fernando-moloni-ab9021204/)
 - [Luiz Guilherme Florido - DT](https://www.google.com/)
 - [Monique Carniello - SM](https://www.linkedin.com/in/monique-carniello-511ba61b6/)
+- [Otavio Ferraroni G Pane - DT](https://www.linkedin.com/in/otavioferraronigpane)
 - [Rafael Roberto Lopes - DT](https://www.linkedin.com/in/rafael-roberto-lopes/)
 - [Thiago Henrique Ferreira - DT](https://www.linkedin.com/in/thiago-henrique-ferreira-2499a41a8/)
 
@@ -25,9 +27,9 @@ Mostrar aqui as tecnologias utilizadas para o desenvolvimento do projeto
 ## User Stories
 
 
-## Backlog do produto
+## Product Backlog
 
-## Planejamento das entregas
+## Sprint Backlog
 
 ## Sprints
 
