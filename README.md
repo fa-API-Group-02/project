@@ -19,10 +19,10 @@ O grupo 02 é formado por:
 
 Desenvolver um site para análise de dados públicos, com foco no eleitorado do estado de São Paulo, com uma linguagem familiar ao cliente (Python) e que demonstre os dados também através de gráficos e porcentagens
 
- -Bases de dados:
- [Eleitorado](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1)
- [Comparecimento e abstenção](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1)
- [Renda média](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1)
+ Bases de dados:
+ - [Eleitorado](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1)
+ - [Comparecimento e abstenção](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1)
+ - [Renda média](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1)
 
 
 ## Tecnologias utilizadas no desenvolvimento
