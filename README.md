@@ -29,6 +29,7 @@ Bases de dados:
 <br>
 <br>
 <br>
+
 ## Tecnologias utilizadas no desenvolvimento
 
 <img src="Images/Tecnologias.png"/>
