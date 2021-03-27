@@ -15,21 +15,31 @@ O grupo 02 é formado por:
 `SM - Scrum Master`
 `DT - Developers Team`
 
-## Proposta
+## Objetivo
 
-Desenvolver um site para análise de dados públicos, utilizando os dados disponíveis em fontes oficiais, como TSE, com o objetivo de ser utilizado por jornalistas no desenvolvimento de suas matérias.
-Incialmente tendo como foco dados de eleitores do Estado de São Paulo.....XXXXXX melhorar
+Desenvolver um site para análise de dados públicos, com foco no eleitorado do estado de São Paulo, com uma linguagem familiar ao cliente (Python) e que demonstre os dados também através de gráficos e porcentagens
+
+ -Bases de dados:
+ [Eleitorado](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1)
+ [Comparecimento e abstenção](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1)
+ [Renda média](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1)
+
 
 ## Tecnologias utilizadas no desenvolvimento
 
-Mostrar aqui as tecnologias utilizadas para o desenvolvimento do projeto
+<img src="https://github.com/fa-API-Group-02/project/blob/main/Tecnologias%20utilizadas%20no%20desenvolvimento.png">
 
 ## User Stories
 
+<img src="https://github.com/fa-API-Group-02/project/blob/main/Imagens%20do%20readme/User%20Stories.pdf">
 
 ## Product Backlog
 
+<img src="https://github.com/fa-API-Group-02/project/blob/main/Imagens%20do%20readme/Product%20Backlog.pdf">
+
 ## Sprint Backlog
+
+<img src="https://github.com/fa-API-Group-02/project/blob/main/Imagens%20do%20readme/Sprint%20backlog.pdf">
 
 ## Sprints
 
