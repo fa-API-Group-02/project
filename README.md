@@ -19,27 +19,27 @@ O grupo 02 é formado por:
 
 Desenvolver um site para análise de dados públicos, com foco no eleitorado do estado de São Paulo, com uma linguagem familiar ao cliente (Python) e que demonstre os dados também através de gráficos e porcentagens
 
- Bases de dados:
- - [Eleitorado](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1)
- - [Comparecimento e abstenção](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1)
- - [Renda média](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1)
+Bases de dados:
 
+- [Eleitorado](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1)
+- [Comparecimento e abstenção](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1)
+- [Renda média](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1)
 
 ## Tecnologias utilizadas no desenvolvimento
 
-<img src="https://github.com/fa-API-Group-02/project/blob/main/Tecnologias%20utilizadas%20no%20desenvolvimento.png">
+<img src=".github/Tecnologiasutilizadasnodesenvolvimento.png"/>
 
 ## User Stories
 
-<img src="https://github.com/fa-API-Group-02/project/blob/main/Imagens%20do%20readme/User%20Stories.pdf">
+<img src=".Images/Tecnologias.png"/>
 
 ## Product Backlog
 
-<img src="https://github.com/fa-API-Group-02/project/blob/main/Imagens%20do%20readme/Product%20Backlog.pdf">
+<img src=".github/ProductBacklog.pdf"/>
 
 ## Sprint Backlog
 
-<img src="https://github.com/fa-API-Group-02/project/blob/main/Imagens%20do%20readme/Sprint%20backlog.pdf">
+<img src="https://github.com/fa-API-Group-02/project/blob/main/Imagens%20do%20readme/Sprint%20backlog.pdf"/>
 
 ## Sprints
 
