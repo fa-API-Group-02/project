@@ -27,19 +27,19 @@ Bases de dados:
 
 ## Tecnologias utilizadas no desenvolvimento
 
-<img src=".github/Tecnologiasutilizadasnodesenvolvimento.png"/>
+<img src="Images/Tecnologias.png"/>
 
 ## User Stories
 
-<img src="Images/Tecnologias.png"/>
+<img src="Images/User_stories.png"/>
 
 ## Product Backlog
 
-<img src=".github/ProductBacklog.pdf"/>
+<img src="Images/Product_Backlog.png"/>
 
 ## Sprint Backlog
 
-<img src="https://github.com/fa-API-Group-02/project/blob/main/Imagens%20do%20readme/Sprint%20backlog.pdf"/>
+<img src="Images/Sprint_backlog.png"/>
 
 ## Sprints
 
