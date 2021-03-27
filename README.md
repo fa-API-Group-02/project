@@ -31,7 +31,7 @@ Bases de dados:
 
 ## User Stories
 
-<img src=".Images/Tecnologias.png"/>
+<img src="Images/Tecnologias.png"/>
 
 ## Product Backlog
 
