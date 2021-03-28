@@ -39,7 +39,7 @@ Bases de dados:
 
 ## Product Backlog
 
-<img src="Images/Product_Backlog.png"/>
+<img src="Images/.png"/>
 <br>
 <br>
 <br>
@@ -73,8 +73,7 @@ Bases de dados:
 
 ## Sprint Backlog
 
-<img src="Images/Sprint_backlog.png"/>
-<br>
+<img src="Images/Backlog_produto.png"/>
 <br>
 <br>
 
