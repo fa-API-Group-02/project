@@ -4,7 +4,6 @@ Durante a primeira entrega, grande parte do esforço foi concentrado em pesquisa
 <br>
 
 - [Protótipo interativo](encurtador.com.br/dAIX9)
-<br>
 
 - [Documentação protótipo (vídeo explicativo)](https://youtu.be/KQw8BBUtF6M)
 
