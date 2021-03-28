@@ -29,6 +29,7 @@ Bases de dados:
 <br>
 <br>
 <br>
+
 ## Tecnologias utilizadas no desenvolvimento
 
 <img src="Images/Tecnologias.png"/>
@@ -38,8 +39,7 @@ Bases de dados:
 
 ## Product Backlog
 
-<img src="Images/Product_Backlog.png"/>
-<br>
+<img src="Images/Backlog_produto.png"/>
 <br>
 <br>
 
