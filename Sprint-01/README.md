@@ -3,7 +3,7 @@
 Durante a primeira entrega, grande parte do esforço foi concentrado em pesquisas, planejamento e também na elaboração de um protótipo interativo do site. Além disso, iniciamos o desenvolvimento da homepage e da página de perfil do eleitorado.
 <br>
 
-- [Protótipo interativo](encurtador.com.br/dAIX9)
+- [Protótipo interativo](https://www.figma.com/proto/UVEmw6ey4058ZKu0a9DaWu/FA-API-dados_eleitorais?node-id=275%3A222&scaling=scale-down-width&page-id=0%3A1)
 
 - [Documentação protótipo (vídeo explicativo)](https://youtu.be/KQw8BBUtF6M)
 
