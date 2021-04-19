@@ -28,15 +28,15 @@ Utilizando de metodologia ágil, desenvolver um site com análise de dados públ
 ## Bases de dados:
 
 - [Eleitorado](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1)   
-Página inicial > eleitorado > atual > perfil eleitorado por seção atual > São Paulo
+Página inicial > eleitorado > 2020 > perfil eleitor por seção atual > São Paulo  
+Página inicial > eleitorado > atual > perfil eleitor por seção atual > São Paulo
 
 - [Comparecimento e abstenção](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1)  
 Página inicial > Comparecimento e Abstenção > 2016     
 Página inicial > Comparecimento e Abstenção > 2018  
 Página inicial > Comparecimento e Abstenção > 2020  
 
-- [Renda](https://geoservicos.ibge.gov.br/geoserver/CGEO/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=CGEO:vw_pib_percapita&outputFormat=csv)  
-O arquivo será baixado ao clicar no link
+- [Renda](<src="CSV_Renda\pibSPcsv.csv"/>)
 <br>
 <br>
 
@@ -92,7 +92,8 @@ O Product Backlog foi desenvolvido considerando as funcionalidades solicitadas e
 <br>
 
 # Sprints
-
+O desenvolvimento do projeto é dividido em quatro sprints, cada uma com 21 dias de duração, e o esforço medido de cada tarefa foi elaborado através de planning poker    
+<br>        
 ### Sprint 01 - 08/03/2021 a 28/03/2021
 
 Durante a primeira entrega, grande parte do esforço foi concentrado em pesquisas, planejamento e também na elaboração de um protótipo interativo do site. Além disso, iniciamos o desenvolvimento da homepage e da página de perfil do eleitorado.
@@ -101,7 +102,7 @@ Sprint Backlog | Esforço | Entrega |
 :--------- | :------: | :-------: | 
 Levantamento requisitos | 13 | |
 Pesquisa | 20 | |
-Homepage e página de eleitorado - frontend | 8 |[Vídeo](https://youtu.be/Yx8WpT7ADQs) / [Repositório](https://github.com/fa-API-Group-02/web) ||
+Homepage e página de eleitorado - frontend | 8 |[Demonstração](https://youtu.be/Yx8WpT7ADQs) / [Repositório](https://github.com/fa-API-Group-02/web) ||
 Protótipo interativo do site (Figma) | 13 | [Protótipo](https://www.figma.com/proto/UVEmw6ey4058ZKu0a9DaWu/FA-API-dados_eleitorais?node-id=275%3A222&scaling=scale-down-width&page-id=0%3A1) |
 Demonstração do protótipo | 5 |[Vídeo](https://youtu.be/KQw8BBUtF6M) | |<br>
 <br>
@@ -110,27 +111,25 @@ Demonstração do protótipo | 5 |[Vídeo](https://youtu.be/KQw8BBUtF6M) | |<br>
 
 
 ### Sprint 02 - 29/03/2021 a 18/04/2021
-Para essa sprint, devido à uma priorização do cliente, desenvolvemos back end em Python, fazendo uso de suas bibliotecas Pandas, Numpy e Matplotlib, e do ambiente Jupyter Notebook 
+Para essa sprint, devido à uma priorização do cliente, o maior esforço foi concentrado em desenvolver back end em Python, fazendo uso de suas bibliotecas Pandas, Numpy e Matplotlib, e do ambiente Jupyter Notebook, porém, prosseguimos com o trabalho no site, terminando a visualização das páginas  
 
 Sprint Backlog | Esforço | Entrega | 
 :--------- | :------: | :-------: | 
-Homepage - incrementação  | 5 | |
-Páginas Eleitorado, Comparecimento e Renda - frontend | 13 | |
-Jupyter Notebook do Eleitorado - pesquisa | 13 | ||
-Jupyter Notebook do Comparecimento e Abstenção - pesquisa | 13 | |
-Jupyter Notebook de Renda - pesquisa| 13 | | |
-Jupyter Notebook do Eleitorado - pesquisa | 13 | ||
-Jupyter Notebook do Comparecimento e Abstenção - pesquisa | 13 | |
-Jupyter Notebook de Renda - pesquisa| 13 | | |<br>
+Páginas Eleitorado, Comparecimento e Renda - visualização frontend | 13 | [Demonstração](https://youtu.be/x8eadeHRyZE) / [Repositório](https://github.com/fa-API-Group-02/web)|
+Jupyter Notebook do Eleitorado - pesquisa | 13 ||
+Jupyter Notebook do Comparecimento e Abstenção - pesquisa | 13 ||
+Jupyter Notebook de Renda - pesquisa| 13 || 
+Jupyter Notebook do Eleitorado - desenvolvimento | 13 |[Eleitorado](<src="Jupyter_Notebook\Eleitorado"/>) |
+Jupyter Notebook do Comparecimento e Abstenção - desenvolvimento | 13 |[Comparecimento](<src="Jupyter_Notebook\Comparecimento_Abstencao"/>) |
+Jupyter Notebook de Renda - desenvolvimento | 13 |[PIB](<src="Jupyter_Notebook\Renda"/>) | <br>
 <br>
 
 ### Sprint 03 - 26/04/2021 a 16/05/2021
+Para a terceira entrega, planejamos desenvolver parte do front end e back end do site, e também realizar possíveis incrementações e  alterarações nos arquivos do Jupyter Notebook solicitadas pelo cliente
 
 Sprint Backlog | Esforço | Entrega | 
 :--------- | :------: | :-------: | 
-Jupyter Notebook (eleitorado) - incrementação |5| |
-Jupyter Notebook (comparecimento e abstenção) - incrementação | 5 | |
-Jupyter Notebook (renda) - incrementação | 5||
+Jupyter Notebook- incremementação |8| |
 Front end - molde dos gráficos do eleitorado | 13 |  |
 Front end - molde dos gráficos de comparecimento e abstenção |13 | |
 Front end - molde dos gráficos de renda |13 | |
