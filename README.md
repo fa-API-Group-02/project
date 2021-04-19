@@ -102,7 +102,7 @@ Sprint Backlog | Esforço | Entrega |
 :--------- | :------: | :-------: | 
 Levantamento requisitos | 13 | |
 Pesquisa | 20 | |
-Homepage e página de eleitorado - frontend | 8 |[Vídeo](https://youtu.be/Yx8WpT7ADQs) / [Repositório](https://github.com/fa-API-Group-02/web) ||
+Homepage e página de eleitorado - frontend | 8 |[Demonstração](https://youtu.be/Yx8WpT7ADQs) / [Repositório](https://github.com/fa-API-Group-02/web) ||
 Protótipo interativo do site (Figma) | 13 | [Protótipo](https://www.figma.com/proto/UVEmw6ey4058ZKu0a9DaWu/FA-API-dados_eleitorais?node-id=275%3A222&scaling=scale-down-width&page-id=0%3A1) |
 Demonstração do protótipo | 5 |[Vídeo](https://youtu.be/KQw8BBUtF6M) | |<br>
 <br>
@@ -111,21 +111,21 @@ Demonstração do protótipo | 5 |[Vídeo](https://youtu.be/KQw8BBUtF6M) | |<br>
 
 
 ### Sprint 02 - 29/03/2021 a 18/04/2021
-Para essa sprint, devido à uma priorização do cliente, desenvolvemos back end em Python, fazendo uso de suas bibliotecas Pandas, Numpy e Matplotlib, e do ambiente Jupyter Notebook 
+Para essa sprint, devido à uma priorização do cliente, o maior esforço foi concentrado em desenvolver back end em Python, fazendo uso de suas bibliotecas Pandas, Numpy e Matplotlib, e do ambiente Jupyter Notebook, porém, prosseguimos com o trabalho no site, terminando a visualização das páginas  
 
 Sprint Backlog | Esforço | Entrega | 
 :--------- | :------: | :-------: | 
-Páginas Eleitorado, Comparecimento e Renda - visualização frontend | 13 | [colocar link aqui]()/ [Repositório](https://github.com/fa-API-Group-02/web)|
-Jupyter Notebook do Eleitorado - pesquisa | 13 | |
+Páginas Eleitorado, Comparecimento e Renda - visualização frontend | 13 | [Demonstração](https://youtu.be/x8eadeHRyZE) / [Repositório](https://github.com/fa-API-Group-02/web)|
+Jupyter Notebook do Eleitorado - pesquisa | 13 ||
 Jupyter Notebook do Comparecimento e Abstenção - pesquisa | 13 ||
 Jupyter Notebook de Renda - pesquisa| 13 || 
-Jupyter Notebook do Eleitorado - desenvolvimento | 13 |[Eleitorado](<src="Jupyter_Notebook\Comparecimento_Abstencao"/>) |
+Jupyter Notebook do Eleitorado - desenvolvimento | 13 |[Eleitorado](<src="Jupyter_Notebook\Eleitorado"/>) |
 Jupyter Notebook do Comparecimento e Abstenção - desenvolvimento | 13 |[Comparecimento](<src="Jupyter_Notebook\Comparecimento_Abstencao"/>) |
-Jupyter Notebook de Renda - desenvolvimento | 13 |[PIB](<src="Jupyter_Notebook\Comparecimento_Abstencao"/>) | <br>
+Jupyter Notebook de Renda - desenvolvimento | 13 |[PIB](<src="Jupyter_Notebook\Renda"/>) | <br>
 <br>
 
 ### Sprint 03 - 26/04/2021 a 16/05/2021
-Para a terceira entrega, planejamos desenvolver  front end e back end do site, e também realizar incrementação e possíveis alterarações no Jupyter Notebook solicitadas pelo cliente
+Para a terceira entrega, planejamos desenvolver parte do front end e back end do site, e também realizar possíveis incrementações e  alterarações nos arquivos do Jupyter Notebook solicitadas pelo cliente
 
 Sprint Backlog | Esforço | Entrega | 
 :--------- | :------: | :-------: | 
