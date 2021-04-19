@@ -32,11 +32,11 @@ Página inicial > eleitorado > 2020 > perfil eleitor por seção atual > São Pa
 Página inicial > eleitorado > atual > perfil eleitor por seção atual > São Paulo
 
 - [Comparecimento e abstenção](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1)  
-Página inicial > Comparecimento e Abstenção > 2016     
+  
 Página inicial > Comparecimento e Abstenção > 2018  
 Página inicial > Comparecimento e Abstenção > 2020  
 
-- [Renda](<src="CSV_Renda\pibSPcsv.csv"/>)
+- [Renda](https://github.com/fa-API-Group-02/project/tree/main/CSV_Renda)
 <br>
 <br>
 
@@ -119,9 +119,9 @@ Páginas Eleitorado, Comparecimento e Renda - visualização frontend | 13 | [De
 Jupyter Notebook do Eleitorado - pesquisa | 13 ||
 Jupyter Notebook do Comparecimento e Abstenção - pesquisa | 13 ||
 Jupyter Notebook de Renda - pesquisa| 13 || 
-Jupyter Notebook do Eleitorado - desenvolvimento | 13 |[Eleitorado](<src="Jupyter_Notebook\Eleitorado"/>) |
-Jupyter Notebook do Comparecimento e Abstenção - desenvolvimento | 13 |[Comparecimento](<src="Jupyter_Notebook\Comparecimento_Abstencao"/>) |
-Jupyter Notebook de Renda - desenvolvimento | 13 |[PIB](<src="Jupyter_Notebook\Renda"/>) | <br>
+Jupyter Notebook do Eleitorado - desenvolvimento | 13 |[Eleitorado](https://github.com/fa-API-Group-02/project/tree/main/Jupyter_Notebook/Eleitorado) |
+Jupyter Notebook do Comparecimento e Abstenção - desenvolvimento | 13 |[Comparecimento](https://github.com/fa-API-Group-02/project/tree/main/Jupyter_Notebook/Comparecimento_Absten%C3%A7%C3%A3o) |
+Jupyter Notebook de Renda - desenvolvimento | 13 |[PIB](https://github.com/fa-API-Group-02/project/tree/main/Jupyter_Notebook/Renda) | <br>
 <br>
 
 ### Sprint 03 - 26/04/2021 a 16/05/2021
