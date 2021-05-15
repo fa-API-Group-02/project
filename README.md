@@ -60,8 +60,6 @@ O Product Backlog foi desenvolvido considerando as funcionalidades solicitadas e
 05 | Comparar os dados de duas cidades |
 06 | Visualizar os dados de comparecimento e abstenção |
 07 | Relacionar dados disponíveis com informação de renda média |
-08 | Relacionar dados disponíveis com representante eleito |
-09 | Exportar os gráficos|
 
 <br>
 <br>
@@ -84,9 +82,6 @@ O Product Backlog foi desenvolvido considerando as funcionalidades solicitadas e
 <h5> 12.	 Como jornalista quero saber a quantidade de eleitores, por escolaridade declarada, que compareceram e que não compareceram na eleição 2020, do Estado de São Paulo e de cada uma de suas cidades, para utilizar esses dados em reportagens
 <h5> 13.	Como jornalista quero poder comparar os dados de abstenção/comparecimento de uma categoria (exemplo: escolaridade) entre duas cidades selecionadas, para utilizá-los em reportagens
 <h5> 14.	 Como jornalista quero saber as cidades que têm o maior e menor índice de comparecimento e abstenção de determinada categoria para utilizá-los em reportagens
-<h5> 15.	 Como jornalista quero poder relacionar o representante eleito de uma cidade com outros índices disponibilizados, para utilizar esses dados em reportagens
-<h5>16.	 Como jornalista gostaria de poder automatizar a publicação de gráficos em diferentes plataformas, de maneira que possam ser utilizadas em TV, na internet, em newsletter, etc, para utilizar esses dados em reportagens
-
 <br>
 <br>
 <br>
@@ -125,31 +120,36 @@ Jupyter Notebook de Renda - desenvolvimento | 13 |[PIB](https://github.com/fa-AP
 <br>
 
 ### Sprint 03 - 26/04/2021 a 16/05/2021
-Para a terceira entrega, planejamos desenvolver parte do front end e back end do site, e também realizar possíveis incrementações e  alterarações nos arquivos do Jupyter Notebook solicitadas pelo cliente
+Para a terceira entrega, inicialmente planejamos desenvolver o front end e back end do site, e realizar a integração somente na quarta sprint. Porém, visando uma entrega de maior valor, alteramos o planejamento, excluindo a página "Gráficos Relevantes" e distrobuindo suas informações nas outras páginas, e desenvolvemos parte das páginas de perfil do eleitorado, comparecimento e abstenção e renda, já realizando a integração.
+
+De acordo com negociação com cliente, excluímos do planejamento (e user stories) funções do site de menor importância, mantendo o foco no desenvolvimento do que possui mais valor.  
 
 Sprint Backlog | Esforço | Entrega | 
 :--------- | :------: | :-------: | 
-Jupyter Notebook- incremementação |8| |
 Front end - molde dos gráficos do eleitorado | 13 |  |
 Front end - molde dos gráficos de comparecimento e abstenção |13 | |
 Front end - molde dos gráficos de renda |13 | |
-Front end - molde dos gráficos página gráficos relevantes |13 | |
 Back end - definição de rotas  |20| |
 Back end - consultas do eleitorado |13 | |
 Back end - consultas de comparecimento e abstenção |13 | |
 Back end - consultas de renda |13 | |
-Back end - consultas dos gráficos relevantes|13 | |<br>
+Integração do front end com a API - eleitorado |20  |  |
+Integração do front end com a API - renda |20 ||
+Documentação (get started no read.me dos repositórios)|3 |<br>
 <br>
 
-### Sprint 04 - 17/05/2021 a 05/06/2021
+### Sprint 04 - 17/05/2021 a 06/06/2021
+ Para essa sprint planejamos incluir mais consultas informações às páginas de perfil do eleitorado e comparecimento e abstenção, desenvolvendo o front end, back end e realizando sua integração, além de hospedar o site e também realizar possíveis alterarações nos arquivos do Jupyter Notebook solicitadas pelo cliente
 
 Sprint Backlog | Esforço | Entrega | 
 :--------- | :------: | :-------: | 
-Automatizar publicação (exportar os dados para outros meios) | 20 | |
-Documentação do site | 20 | |
+Jupyter Notebook- correções/alterações solicitadas pelo cliente |8| |
 Hospedagem | 5||
-Integração do front end com a API - eleitorado |20  |  |
-Integração do front end com a API - comparecimento e abstenção |20 ||
-Integração do front end com a API - renda |20 ||
-Integração do front end com a API - gráficos relevantes |20 ||
+Front end - molde dos gráficos do eleitorado (incrementação)| 13 |  |
+Front end - molde dos gráficos de comparecimento e abstenção (incrementação) |13 | |
+Back end - definição de rotas (incrementação) |20| |
+Back end - consultas do eleitorado (incrementação) |13 | |
+Back end - consultas de comparecimento e abstenção (incrementação)|13 | |
+Integração do front end com a API - eleitorado (incrementação) |20  |  |
+Integração do front end com a API - comparecimento e abstenção (incrementação) |20 ||
 <br>
