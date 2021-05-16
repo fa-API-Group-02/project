@@ -87,7 +87,8 @@ O Product Backlog foi desenvolvido considerando as funcionalidades solicitadas e
 <br>
 
 # Sprints
-O desenvolvimento do projeto é dividido em quatro sprints, cada uma com 21 dias de duração, e o esforço medido de cada tarefa foi elaborado através de planning poker    
+O desenvolvimento do projeto é dividido em quatro sprints, cada uma com 21 dias de duração, e o esforço medido de cada tarefa foi elaborado através de planning poker 
+   
 <br>        
 ### Sprint 01 - 08/03/2021 a 28/03/2021
 
@@ -120,27 +121,27 @@ Jupyter Notebook de Renda - desenvolvimento | 13 |[PIB](https://github.com/fa-AP
 <br>
 
 ### Sprint 03 - 26/04/2021 a 16/05/2021
-Para a terceira entrega, inicialmente planejamos desenvolver o front end e back end do site, e realizar a integração somente na quarta sprint. Porém, visando uma entrega de maior valor, alteramos o planejamento, excluindo a página "Gráficos Relevantes" e distro=ibuindo suas informações nas outras páginas, e desenvolvemos parte das páginas de perfil do eleitorado, comparecimento e abstenção e renda, já realizando a integração.
+Para a terceira entrega, inicialmente planejamos desenvolver o front end e back end do site, e realizar a integração somente na quarta sprint. Porém, visando uma entrega de maior valor, alteramos o planejamento, excluindo a página "Gráficos Relevantes" e distribuindo suas informações nas outras páginas, e desenvolvemos parte das páginas de perfil do eleitorado, comparecimento e abstenção e renda, já realizando a integração.
 
 De acordo com negociação com cliente, excluímos do planejamento (e user stories) funções do site de menor importância, mantendo o foco no desenvolvimento do que possui mais valor.  
 
 Sprint Backlog | Esforço | Entrega | 
 :--------- | :------: | :-------: | 
-Front end - molde dos gráficos do eleitorado | 20 | [Demonstração]() / [Repositório](https://github.com/fa-API-Group-02/web)  |
-Front end - molde dos gráficos de comparecimento e abstenção |20| [Demonstração]() / [Repositório](https://github.com/fa-API-Group-02/web) |
-Front end - molde dos gráficos de renda |20 |[Demonstração]() / [Repositório](https://github.com/fa-API-Group-02/web) |
-Back end - definição de rotas  |20|[Demonstração]() / [Repositório](https://github.com/fa-API-Group-02/backend) |
-Back end - consultas do eleitorado |13 |[Demonstração]() / [Repositório](https://github.com/fa-API-Group-02/backend) |
-Back end - consultas de comparecimento e abstenção |13 |[Demonstração]() / [Repositório](https://github.com/fa-API-Group-02/backend) |
-Back end - consultas de renda |13 |[Demonstração]() / [Repositório](https://github.com/fa-API-Group-02/backend) |
+Front end - molde dos gráficos do eleitorado | 20 | [Demonstração](https://youtu.be/N0zy9vGRnsI) / [Repositório](https://github.com/fa-API-Group-02/web)  |
+Front end - molde dos gráficos de comparecimento e abstenção |20| [Demonstração](https://youtu.be/N0zy9vGRnsI) / [Repositório](https://github.com/fa-API-Group-02/web) |
+Front end - molde dos gráficos de renda |20 |[Demonstração](https://youtu.be/N0zy9vGRnsI) / [Repositório](https://github.com/fa-API-Group-02/web) |
+Back end - definição de rotas  |20|[Repositório](https://github.com/fa-API-Group-02/backend) |
+Back end - consultas do eleitorado |13 | [Repositório](https://github.com/fa-API-Group-02/backend) |
+Back end - consultas de comparecimento e abstenção |13 |[Repositório](https://github.com/fa-API-Group-02/backend) |
+Back end - consultas de renda |13 |[Repositório](https://github.com/fa-API-Group-02/backend) |
 Integração do front end com a API - eleitorado |13  |  |
 Integração do front end com a API - comparecimento e abstenção |13 ||
 Integração do front end com a API - renda |13 ||
-Documentação (get started no readme dos respectivos repositórios)|5 |<br>
+Documentação (get started no readme do repositório com os códigos)|5 |<br>
 <br>
 
 ### Sprint 04 - 17/05/2021 a 06/06/2021
- Para essa sprint planejamos incluir mais consultas informações às páginas de perfil do eleitorado e comparecimento e abstenção, desenvolvendo o front end, back end e realizando sua integração, além de hospedar o site e também realizar possíveis alterarações nos arquivos do Jupyter Notebook solicitadas pelo cliente
+ Para essa sprint planejamos incluir mais consultas e informações às páginas de perfil do eleitorado e comparecimento e abstenção, desenvolvendo o front end, back end e realizando sua integração, além de hospedar o site e também realizar possíveis alterarações nos arquivos do Jupyter Notebook solicitadas pelo cliente
 
 Sprint Backlog | Esforço | Entrega | 
 :--------- | :------: | :-------: | 
