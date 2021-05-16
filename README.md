@@ -120,22 +120,23 @@ Jupyter Notebook de Renda - desenvolvimento | 13 |[PIB](https://github.com/fa-AP
 <br>
 
 ### Sprint 03 - 26/04/2021 a 16/05/2021
-Para a terceira entrega, inicialmente planejamos desenvolver o front end e back end do site, e realizar a integração somente na quarta sprint. Porém, visando uma entrega de maior valor, alteramos o planejamento, excluindo a página "Gráficos Relevantes" e distrobuindo suas informações nas outras páginas, e desenvolvemos parte das páginas de perfil do eleitorado, comparecimento e abstenção e renda, já realizando a integração.
+Para a terceira entrega, inicialmente planejamos desenvolver o front end e back end do site, e realizar a integração somente na quarta sprint. Porém, visando uma entrega de maior valor, alteramos o planejamento, excluindo a página "Gráficos Relevantes" e distro=ibuindo suas informações nas outras páginas, e desenvolvemos parte das páginas de perfil do eleitorado, comparecimento e abstenção e renda, já realizando a integração.
 
 De acordo com negociação com cliente, excluímos do planejamento (e user stories) funções do site de menor importância, mantendo o foco no desenvolvimento do que possui mais valor.  
 
 Sprint Backlog | Esforço | Entrega | 
 :--------- | :------: | :-------: | 
-Front end - molde dos gráficos do eleitorado | 13 |  |
-Front end - molde dos gráficos de comparecimento e abstenção |13 | |
-Front end - molde dos gráficos de renda |13 | |
-Back end - definição de rotas  |20| |
-Back end - consultas do eleitorado |13 | |
-Back end - consultas de comparecimento e abstenção |13 | |
-Back end - consultas de renda |13 | |
-Integração do front end com a API - eleitorado |20  |  |
-Integração do front end com a API - renda |20 ||
-Documentação (get started no read.me dos repositórios)|3 |<br>
+Front end - molde dos gráficos do eleitorado | 20 | [Demonstração]() / [Repositório](https://github.com/fa-API-Group-02/web)  |
+Front end - molde dos gráficos de comparecimento e abstenção |20| [Demonstração]() / [Repositório](https://github.com/fa-API-Group-02/web) |
+Front end - molde dos gráficos de renda |20 |[Demonstração]() / [Repositório](https://github.com/fa-API-Group-02/web) |
+Back end - definição de rotas  |20|[Demonstração]() / [Repositório](https://github.com/fa-API-Group-02/backend) |
+Back end - consultas do eleitorado |13 |[Demonstração]() / [Repositório](https://github.com/fa-API-Group-02/backend) |
+Back end - consultas de comparecimento e abstenção |13 |[Demonstração]() / [Repositório](https://github.com/fa-API-Group-02/backend) |
+Back end - consultas de renda |13 |[Demonstração]() / [Repositório](https://github.com/fa-API-Group-02/backend) |
+Integração do front end com a API - eleitorado |13  |  |
+Integração do front end com a API - comparecimento e abstenção |13 ||
+Integração do front end com a API - renda |13 ||
+Documentação (get started no readme dos respectivos repositórios)|5 |<br>
 <br>
 
 ### Sprint 04 - 17/05/2021 a 06/06/2021
