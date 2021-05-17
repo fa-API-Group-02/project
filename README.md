@@ -127,9 +127,9 @@ De acordo com negociação com cliente, excluímos do planejamento (e user stori
 
 Sprint Backlog | Esforço | Entrega | 
 :--------- | :------: | :-------: | 
-Front end - molde dos gráficos do eleitorado | 20 | [Demonstração](https://youtu.be/N0zy9vGRnsI) / [Repositório](https://github.com/fa-API-Group-02/web)  |
-Front end - molde dos gráficos de comparecimento e abstenção |20| [Demonstração](https://youtu.be/N0zy9vGRnsI) / [Repositório](https://github.com/fa-API-Group-02/web) |
-Front end - molde dos gráficos de renda |20 |[Demonstração](https://youtu.be/N0zy9vGRnsI) / [Repositório](https://github.com/fa-API-Group-02/web) |
+Front end - molde dos gráficos do eleitorado | 20 | [Demonstração](https://youtu.be/5kk4IpK4jms) / [Repositório](https://github.com/fa-API-Group-02/web)  |
+Front end - molde dos gráficos de comparecimento e abstenção |20| [Demonstração](https://youtu.be/5kk4IpK4jms) / [Repositório](https://github.com/fa-API-Group-02/web) |
+Front end - molde dos gráficos de renda |20 |[Demonstração](https://youtu.be/5kk4IpK4jms) / [Repositório](https://github.com/fa-API-Group-02/web) |
 Back end - definição de rotas  |20|[Repositório](https://github.com/fa-API-Group-02/backend) |
 Back end - consultas do eleitorado |13 | [Repositório](https://github.com/fa-API-Group-02/backend) |
 Back end - consultas de comparecimento e abstenção |13 |[Repositório](https://github.com/fa-API-Group-02/backend) |
