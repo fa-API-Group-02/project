@@ -141,12 +141,12 @@ Documentação (get started no readme do repositório com os códigos)|5 |<br>
 <br>
 
 ### Sprint 04 - 17/05/2021 a 06/06/2021
-Para essa sprint incluímos mais consultas e informações às páginas de perfil do eleitorado e comparecimento e abstenção, desenvolvendo o front end, back end e realizando sua integração. Agora, ambas as páginas contam com gráficos exibindo as cinco cidades com os maiores e menores indíces das categorias (faixa etária, estado civil e escolaridade declarada)
+Para essa sprint incluímos mais consultas e informações às páginas de perfil do eleitorado e comparecimento e abstenção, desenvolvendo o front end, back end e realizando sua integração. Agora, ambas as páginas contam com gráficos exibindo as cinco cidades do Estado com os maiores e menores indíces das categorias (faixa etária, estado civil e escolaridade declarada)
 
 Sprint Backlog | Esforço | Entrega | 
 :--------- | :------: | :-------: | 
-Front end - molde dos gráficos do eleitorado (incrementação)| 13 |[Demonstração] / [Repositório](https://github.com/fa-API-Group-02/web) |
-Front end - molde dos gráficos de comparecimento e abstenção (incrementação) |13 |[Demonstração] / [Repositório](https://github.com/fa-API-Group-02/web) |
+Front end - molde dos gráficos do eleitorado (incrementação)| 13 |[Demonstração](https://youtu.be/wrXuE-4p1tU) / [Repositório](https://github.com/fa-API-Group-02/web) |
+Front end - molde dos gráficos de comparecimento e abstenção (incrementação) |13 |[Demonstração](https://youtu.be/wrXuE-4p1tU) / [Repositório](https://github.com/fa-API-Group-02/web) |
 Back end - definição de rotas (incrementação) |20|[Repositório](https://github.com/fa-API-Group-02/backend) |
 Back end - consultas do eleitorado (incrementação) |13 |[Repositório](https://github.com/fa-API-Group-02/backend) |
 Back end - consultas de comparecimento e abstenção (incrementação)|13 |[Repositório](https://github.com/fa-API-Group-02/backend) |
