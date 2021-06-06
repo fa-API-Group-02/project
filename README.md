@@ -89,9 +89,9 @@ O Product Backlog foi desenvolvido considerando as funcionalidades solicitadas e
 # Sprints
 O desenvolvimento do projeto é dividido em quatro sprints, cada uma com 21 dias de duração, e o esforço medido de cada tarefa foi elaborado através de planning poker 
    
-<br>        
+<br>   
+ 
 ### Sprint 01 - 08/03/2021 a 28/03/2021
-
 Durante a primeira entrega, grande parte do esforço foi concentrado em pesquisas, planejamento e também na elaboração de um protótipo interativo do site. Além disso, iniciamos o desenvolvimento da homepage e da página de perfil do eleitorado.
 
 Sprint Backlog | Esforço | Entrega | 
@@ -141,17 +141,16 @@ Documentação (get started no readme do repositório com os códigos)|5 |<br>
 <br>
 
 ### Sprint 04 - 17/05/2021 a 06/06/2021
- Para essa sprint planejamos incluir mais consultas e informações às páginas de perfil do eleitorado e comparecimento e abstenção, desenvolvendo o front end, back end e realizando sua integração, além de hospedar o site e também realizar possíveis alterarações nos arquivos do Jupyter Notebook solicitadas pelo cliente
+Para essa sprint incluímos mais consultas e informações às páginas de perfil do eleitorado e comparecimento e abstenção, desenvolvendo o front end, back end e realizando sua integração. Agora, ambas as páginas contam com gráficos exibindo as cinco cidades com os maiores e menores indíces das categorias (faixa etária, estado civil e escolaridade declarada)
 
 Sprint Backlog | Esforço | Entrega | 
 :--------- | :------: | :-------: | 
-Jupyter Notebook- correções/alterações solicitadas pelo cliente |8| |
-Hospedagem | 5||
-Front end - molde dos gráficos do eleitorado (incrementação)| 13 |  |
-Front end - molde dos gráficos de comparecimento e abstenção (incrementação) |13 | |
-Back end - definição de rotas (incrementação) |20| |
-Back end - consultas do eleitorado (incrementação) |13 | |
-Back end - consultas de comparecimento e abstenção (incrementação)|13 | |
+Front end - molde dos gráficos do eleitorado (incrementação)| 13 |[Demonstração] / [Repositório](https://github.com/fa-API-Group-02/web) |
+Front end - molde dos gráficos de comparecimento e abstenção (incrementação) |13 |[Demonstração] / [Repositório](https://github.com/fa-API-Group-02/web) |
+Back end - definição de rotas (incrementação) |20|[Repositório](https://github.com/fa-API-Group-02/backend) |
+Back end - consultas do eleitorado (incrementação) |13 |[Repositório](https://github.com/fa-API-Group-02/backend) |
+Back end - consultas de comparecimento e abstenção (incrementação)|13 |[Repositório](https://github.com/fa-API-Group-02/backend) |
 Integração do front end com a API - eleitorado (incrementação) |20  |  |
 Integração do front end com a API - comparecimento e abstenção (incrementação) |20 ||
+Correções e incrementações do front end |8||
 <br>
